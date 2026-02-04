@@ -176,7 +176,7 @@ export default function ValentinePage() {
             className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 animate-fade-in-up"
             style={{ animationDelay: "0.2s" }}
           >
-            <span className="gradient-text">Yay! Best Decision</span>
+            <span className="gradient-text">Yay! Best Decision of</span>
           </h1>
 
           <h2
